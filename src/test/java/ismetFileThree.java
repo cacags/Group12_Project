@@ -7,5 +7,6 @@ public class ismetFileThree {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a number: ");
         int num = scanner.nextInt();
+        //what will happen after that abi
     }
 }
