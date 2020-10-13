@@ -3,5 +3,6 @@ public class NoConflictBitte {
         System.out.println("please don't create any conlict");
         //Danke
         //Wie geht es Ihnen?
+        //i added some change to master
     }
 }
