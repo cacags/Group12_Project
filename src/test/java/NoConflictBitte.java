@@ -4,5 +4,6 @@ public class NoConflictBitte {
         //Danke
         //Wie geht es Ihnen?
         //i added some change to master
+        //hello after the last conflict class
     }
 }
